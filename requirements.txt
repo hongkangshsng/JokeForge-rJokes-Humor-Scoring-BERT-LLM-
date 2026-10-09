@@ -1,0 +1,11 @@
+# Core environment for the planned BERT humor-score workflow.
+# Pin exact versions after the final training environment is verified.
+torch
+transformers
+datasets
+accelerate
+numpy
+pandas
+scikit-learn
+scipy
+tqdm
